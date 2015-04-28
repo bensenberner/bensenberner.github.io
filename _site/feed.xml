@@ -9,7 +9,7 @@
     <pubDate>Mon, 27 Apr 2015 19:19:12 -0400</pubDate>
     <lastBuildDate>Mon, 27 Apr 2015 19:19:12 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
-    
+
       <item>
         <title>RaspberryPi Portable Firewall/IPS/DNS-RPZ</title>
         <description>&lt;p&gt;Connecting to unsecured networks can be a risk. You really don&amp;#39;t know what could be running on the network. We can use the raspberry pi to act as a firewall for our laptops.&lt;/p&gt;
@@ -139,10 +139,10 @@ Ssh login to the pi, connect to wifi using iwconfig commands. Then run this scri
         <pubDate>Fri, 06 Feb 2015 02:33:00 -0500</pubDate>
         <link>http://lerner.io/blog/raspberry-pi-portable-firewallipsdns-rpz</link>
         <guid isPermaLink="true">http://lerner.io/blog/raspberry-pi-portable-firewallipsdns-rpz</guid>
-        
-        
+
+
       </item>
-    
+
       <item>
         <title>Open Source Continuous Deployment</title>
         <description>&lt;blockquote&gt;
@@ -162,7 +162,7 @@ Ssh login to the pi, connect to wifi using iwconfig commands. Then run this scri
 &lt;li&gt;Fail-Fast&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Services have been written to get the job done, but most are paid and hosted solutions. 
+&lt;p&gt;Services have been written to get the job done, but most are paid and hosted solutions.
 Github Enterprise, Jira, Gitlab, Travis-CI,  etc...&lt;/p&gt;
 
 &lt;p&gt;All great tools for their use, but sometimes it&amp;#39; best to host the services yourself for no fees. The tools used here are all free and open source.&lt;/p&gt;
@@ -181,12 +181,12 @@ Github Enterprise, Jira, Gitlab, Travis-CI,  etc...&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;.1. Bring up a Linux Distro of your choice.&lt;/p&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;.2. Install git (obviously)
 &lt;a href=&quot;http://gogs.io/docs/installation/install_from_binary.html&quot;&gt;wget the latest Binary&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;.3. 
+&lt;li&gt;&lt;p&gt;.3.
 &lt;code&gt;
 $ mv output.zip /srv/ \
 &amp;amp;&amp;amp; unzip /srv/output.zip
 &lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;.4. 
+&lt;li&gt;&lt;p&gt;.4.
 &lt;code&gt;
 $ bash /srv/gogs/start.sh
 &lt;/code&gt;&lt;/p&gt;&lt;/li&gt;
@@ -214,7 +214,7 @@ $ bash /srv/gogs/start.sh
 $ sudo dpkg -i drone.deb
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;.3. Add your gogs url to /etc/drone/drone.toml&lt;/p&gt;
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;[gogs] 
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;[gogs]
 url=&amp;quot;http://[your-gogs-url]/&amp;quot;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;li&gt;&lt;p&gt;.4. Login to Drone&lt;/p&gt;&lt;/li&gt;
@@ -277,10 +277,10 @@ Drone&amp;#39;s build &amp;amp; testing using Docker is extremely quick for my p
         <pubDate>Mon, 22 Dec 2014 22:33:00 -0500</pubDate>
         <link>http://lerner.io/blog/open-source-continuous-deployment</link>
         <guid isPermaLink="true">http://lerner.io/blog/open-source-continuous-deployment</guid>
-        
-        
+
+
       </item>
-    
+
       <item>
         <title>The Road to DevOps</title>
         <description>Converted from Blogger. Please excuse any layout errors!
@@ -429,10 +429,10 @@ Drone&amp;#39;s build &amp;amp; testing using Docker is extremely quick for my p
         <pubDate>Tue, 07 Oct 2014 23:37:00 -0400</pubDate>
         <link>http://lerner.io/blog/the-road-to-devops</link>
         <guid isPermaLink="true">http://lerner.io/blog/the-road-to-devops</guid>
-        
-        
+
+
       </item>
-    
+
       <item>
         <title>Underground DNS Servers</title>
         <description>Converted from Blogger. Please excuse any layout errors!
@@ -591,10 +591,10 @@ This is just something I&#39;ve wanted to look into for a while now. I figured I
         <pubDate>Fri, 22 Aug 2014 15:41:00 -0400</pubDate>
         <link>http://lerner.io/blog/underground-dns-servers</link>
         <guid isPermaLink="true">http://lerner.io/blog/underground-dns-servers</guid>
-        
-        
+
+
       </item>
-    
+
       <item>
         <title>Raspberry Pi Dropbox Pentesting Tool</title>
         <description>Converted from Blogger. Please excuse any layout errors!
@@ -697,10 +697,10 @@ This is just something I&#39;ve wanted to look into for a while now. I figured I
         <pubDate>Wed, 16 Apr 2014 02:40:00 -0400</pubDate>
         <link>http://lerner.io/blog/raspberry-pi-dropbox-pentesting-tool</link>
         <guid isPermaLink="true">http://lerner.io/blog/raspberry-pi-dropbox-pentesting-tool</guid>
-        
-        
+
+
       </item>
-    
+
       <item>
         <title>Malware Reversing: Insomnia</title>
         <description>Converted from Blogger. Please excuse any layout errors!
@@ -887,9 +887,9 @@ Insomnia is a .NET framework Windows PE commanded through IRC that has been arou
         <pubDate>Fri, 14 Feb 2014 21:25:00 -0500</pubDate>
         <link>http://lerner.io/blog/malware-reversing-insomnia</link>
         <guid isPermaLink="true">http://lerner.io/blog/malware-reversing-insomnia</guid>
-        
-        
+
+
       </item>
-    
+
   </channel>
 </rss>
