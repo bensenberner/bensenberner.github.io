@@ -883,7 +883,7 @@ Insomnia is a .NET framework Windows PE commanded through IRC that has been arou
 &lt;br /&gt;
 &lt;br /&gt;&lt;b&gt;Results:&lt;/b&gt;
 &lt;br /&gt;Disassembling and reversing the encryption leads to a domain name which hosts the IRC server. Most of the server names are using a dynamic dns service like no-ip or dyndns.
-&lt;br /&gt;We can connect to the IRC and start issuing commands, like in my other entry,&amp;nbsp; &lt;a href=&quot;http://kevinlaw.info/blog/to-catch-hacker-honeypot-edition&quot; target=&quot;_blank&quot;&gt;To Catch a Hacker&lt;/a&gt;.</description>
+&lt;br /&gt;We can connect to the IRC and start issuing commands, like in my other entry,&amp;nbsp; &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;To Catch a Hacker&lt;/a&gt;.</description>
         <pubDate>Fri, 14 Feb 2014 21:25:00 -0500</pubDate>
         <link>http://lerner.io/blog/malware-reversing-insomnia</link>
         <guid isPermaLink="true">http://lerner.io/blog/malware-reversing-insomnia</guid>
