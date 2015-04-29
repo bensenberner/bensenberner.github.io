@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My First Plog Post
+title: My First Blog Post
 date: '2015-04-28T23:33:00.001-08:00'
 author: Benjamin L
 ---
